@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Word Wars",
+"dataUrl": "Word-Wars.data.unityweb",
+"asmCodeUrl": "Word-Wars.asm.code.unityweb",
+"asmMemoryUrl": "Word-Wars.asm.memory.unityweb",
+"asmFrameworkUrl": "Word-Wars.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
